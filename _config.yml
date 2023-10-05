@@ -1,10 +1,10 @@
-permalink: /posts/:title
+permalink: /posts/:coffee shop reviews
 markdown: kramdown
 
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
+name: Itzel Coutiño.
 url: https://zachholman.com/left
-description: A fantastic blog that is fantastic.
+description: a fantastic blog where you will find my reviews of coffee shops in cancun.
 twitter: holman
