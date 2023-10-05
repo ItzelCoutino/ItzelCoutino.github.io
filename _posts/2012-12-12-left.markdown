@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVIEWS OF COFFEE SHOPS IN CANCUN
-category: REVIEWS
+category: posts
 ---
 
 Left is a clean, whitespace-happy layout for [Jekyll][jekyll].
