@@ -4,20 +4,36 @@ title: Review of cafe con gracia, in cancun
 category: posts
 
 ---
+Title: A Tropical Coffee Paradise at Cafe con Gracia
 
-This is a draft post that isn't ready for the wild. See how it doesn't show up in your list of posts, nor in your RSS feed? You can, however, [link](/posts/draft/) directly to it.
+Cafe con Gracia in Cancún is a hidden gem that captures the essence of tropical paradise while delivering an exceptional coffee and culinary experience. My recent visit to this quaint café was a delightful journey through a world of flavors and relaxation.
 
-To make it go live, all you have to do is remove the `draft:true` line, and you're off to the races.
+As soon as you step inside Cafe con Gracia, you're enveloped in the enticing aroma of freshly brewed coffee. The decor is a perfect blend of contemporary and tropical aesthetics, offering a serene escape from the lively Cancún surroundings. Whether you're seeking a serene nook for introspection or a vibrant space for mingling, Cafe con Gracia caters to both.
+
+Now, let's talk about the coffee. The cafe boasts an enticing selection of coffee, ranging from classic espressos to inventive signature concoctions. I opted for the "Mayan Magic," a delightful blend of espresso, chocolate, and subtle hints of cinnamon. It was a harmonious fusion of flavors that left my taste buds longing for more.
+
+Cafe con Gracia isn't just about coffee; their food menu is equally impressive. I had the pleasure of savoring the avocado toast, a beautifully simple yet exquisite dish. Freshly sliced avocado, a flawlessly poached egg, and a dash of aromatic spices on perfectly toasted bread - it was an impeccable culinary experience.
+
+However, what truly distinguishes Cafe con Gracia is its attentive and warm-hearted staff. The baristas and servers are not only well-versed in their coffee and culinary offerings but are also genuinely passionate about ensuring every guest has a memorable visit. Their welcoming demeanor added an extra layer of pleasure to my experience.
+
+Cafe con Gracia is not solely a gastronomic delight; it's also a welcoming spot to unwind and escape. With complimentary Wi-Fi and comfortable seating, it's a top choice for both remote work and leisurely moments.
+
+In conclusion, Cafe con Gracia is a tropical coffee haven in Cancún. It's a place where passion for coffee and exceptional cuisine is evident in every cup and every bite. I wholeheartedly recommend Cafe con Gracia to anyone in search of a remarkable coffee and dining experience. It has undoubtedly secured its place as one of Cancún's finest, and I eagerly anticipate returning for more unforgettable moments.
+
+Rating: ⭐⭐⭐⭐⭐ (5/5)
+
+
+
+
+
+
 
 ---
 
-You'll want to [get the code][left] and read the README to learn how to
-install and set up Left for your own purposes.
-
-If you have any questions, follow and ping me on Twitter- I'm
-[@holman][twitter].
+If you have any questions, follow me on Twitter- I'm
+[@junghyunzone][twitter].
 
 [jekyll]: https://github.com/mojombo/jekyll
 [zh]: http://zachholman.com
 [left]: https://github.com/holman/left#readme
-[twitter]: https://twitter.com/holman
+[twitter]: https://twitter.com/junghyunzone
