@@ -1,4 +1,4 @@
-permalink: /posts/:coffee shop reviews
+permalink: /posts/:title
 markdown: kramdown
 
 gems:
