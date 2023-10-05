@@ -23,9 +23,6 @@ Rating: ⭐⭐⭐⭐⭐ (5/5)
 
 ---
 
-layout: post
-title: Review of Café Con Gracia
-category: posts
 
 [jekyll]: https://github.com/mojombo/jekyll
 [zh]: http://zachholman.com
