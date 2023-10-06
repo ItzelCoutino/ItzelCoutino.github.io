@@ -1,21 +1,28 @@
 ---
 layout: post
-title: Sample draft post
+title: Review of "onesto" cafe in cancún
 category: posts
-draft: true
+---
+Title: onesto cafe
+
+I recently had the pleasure of visiting "onesto cafe", and I must say, it was an absolutely delightful experience. From the moment I walked through the door, I knew I had stumbled upon a hidden gem.
+
+The ambiance at onesto is simply charming. The warm, rustic décor and the inviting aroma of freshly brewed coffee create the perfect setting for relaxation and conversation. It's the kind of place where you can easily lose track of time while savoring your favorite brew.
+
+Speaking of brews, their coffee selection is a dream for any coffee enthusiast. I opted for the house blend, and I was not disappointed. It was rich, robust, and perfectly roasted. The baristas at onesto clearly know their craft, as each cup is brewed to perfection.
+
+But onesto isn't just about the coffee; their menu boasts an array of mouthwatering pastries and light bites. I couldn't resist trying their freshly baked croissants. They were flaky, buttery, and paired beautifully with my cappuccino.
+
+What truly sets onesto apart, however, is the friendly and attentive staff. They are not only knowledgeable about their coffee but also passionate about ensuring every customer has a wonderful experience. Their warm smiles and prompt service added an extra layer of satisfaction to my visit.
+
+Whether you're seeking a cozy spot for a morning pick-me-up or a quiet corner to catch up on work, onesto offers it all. The free Wi-Fi and comfortable seating make it a fantastic choice for remote work or study sessions.
+
+In summary, onesto is a coffee lover's paradise. It's a place where the art of coffee-making is celebrated, and every cup is a masterpiece. I wholeheartedly recommend it to anyone in search of an exceptional coffee experience. This café has certainly earned its spot as one of my favorites, and I'll be returning for more delightful moments in the near future.
+
+Rating: ⭐⭐⭐⭐⭐ (5/5)
+
 ---
 
-This is a draft post that isn't ready for the wild. See how it doesn't show up in your list of posts, nor in your RSS feed? You can, however, [link](/posts/draft/) directly to it.
-
-To make it go live, all you have to do is remove the `draft:true` line, and you're off to the races.
-
----
-
-You'll want to [get the code][left] and read the README to learn how to
-install and set up Left for your own purposes.
-
-If you have any questions, follow and ping me on Twitter- I'm
-[@holman][twitter].
 
 [jekyll]: https://github.com/mojombo/jekyll
 [zh]: http://zachholman.com
