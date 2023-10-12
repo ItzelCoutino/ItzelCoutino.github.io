@@ -2,7 +2,6 @@
 layout: post
 title: Review of cafe con gracia, in cancun
 category: posts
-Draft: True
 ---
 Title: A Tropical Coffee Paradise at Cafe con Gracia
 
